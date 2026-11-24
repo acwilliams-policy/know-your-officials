@@ -1,0 +1,127 @@
+{
+  "president": {
+    "title": "President",
+    "level": "Federal",
+    "summary": "Leads the federal government's executive branch: the departments and agencies that carry out federal laws.",
+    "what_they_do": [
+      "Signs bills passed by Congress into law, or vetoes (rejects) them. Congress can override a veto with a two-thirds vote in both the House and Senate.",
+      "Runs the executive branch, including departments such as Defense, State, Treasury and Health and Human Services, and the agencies under them.",
+      "Serves as Commander in Chief of the armed forces.",
+      "Nominates Cabinet members, federal judges (including Supreme Court justices) and ambassadors. The Senate must confirm them.",
+      "Negotiates treaties with other countries. Two-thirds of the Senate must approve a treaty.",
+      "Proposes a federal budget each year and issues executive orders that direct how the executive branch works.",
+      "Can pardon people convicted of federal crimes."
+    ],
+    "limits": "The President cannot pass laws or spend money on their own; Congress controls lawmaking and the budget. Federal courts can block actions they find illegal or unconstitutional.",
+    "term": "4 years. A person can be elected President no more than twice.",
+    "how_chosen": "Elected nationwide every four years through the Electoral College, together with the Vice President.",
+    "how_many": "1",
+    "why_it_matters": "The President's choices shape things like federal benefits programs, immigration enforcement, trade and tariffs, military action, and who sits on the federal courts for decades.",
+    "learn_more": [
+      {"label": "Branches of government (USA.gov)", "url": "https://www.usa.gov/branches-of-government"},
+      {"label": "The White House", "url": "https://www.whitehouse.gov/"}
+    ]
+  },
+  "vice_president": {
+    "title": "Vice President",
+    "level": "Federal",
+    "summary": "Second in command of the executive branch and next in line to become President.",
+    "what_they_do": [
+      "Becomes President if the President dies, resigns or is removed from office.",
+      "Serves as President of the Senate and casts the deciding vote when the Senate is tied 50 to 50.",
+      "Presides over the joint session of Congress that counts the Electoral College votes after a presidential election.",
+      "Advises the President and takes on whatever responsibilities the President assigns."
+    ],
+    "limits": "The Vice President's formal powers are small. How much influence they have depends largely on the President.",
+    "term": "4 years, matching the President's term.",
+    "how_chosen": "Elected on the same ticket as the President.",
+    "how_many": "1",
+    "why_it_matters": "Tie-breaking votes can decide major laws and nominations in a closely divided Senate, and the Vice President must be ready to lead the country at any moment.",
+    "learn_more": [
+      {"label": "Branches of government (USA.gov)", "url": "https://www.usa.gov/branches-of-government"}
+    ]
+  },
+  "senator": {
+    "title": "U.S. Senator",
+    "level": "Federal",
+    "summary": "One of 100 members of the U.S. Senate, two from each state, who write and vote on federal laws.",
+    "what_they_do": [
+      "Writes, debates and votes on federal laws and the federal budget. A bill must pass both the Senate and the House before going to the President.",
+      "Votes to confirm or reject the President's nominees, including Cabinet members and federal judges.",
+      "Votes on treaties. Two-thirds of the Senate must approve a treaty.",
+      "Holds the trial when a federal official is impeached by the House, and votes on whether to remove them.",
+      "Investigates and oversees federal agencies through committee hearings.",
+      "Helps people in their state who have problems with federal agencies, such as Social Security, veterans' benefits, passports or immigration cases. This is called casework."
+    ],
+    "limits": "A senator is one vote of 100. Under current Senate rules, most bills need 60 votes to end debate and move to a final vote (a rule known as the filibuster).",
+    "term": "6 years, with no term limits. About one-third of Senate seats are up for election every two years.",
+    "how_chosen": "Elected by voters across the whole state.",
+    "how_many": "100 (2 per state)",
+    "why_it_matters": "Senators decide which laws pass and which judges serve on the federal courts, including the Supreme Court. Their offices can also help you directly with a federal agency.",
+    "learn_more": [
+      {"label": "Senate powers and procedures (Senate.gov)", "url": "https://www.senate.gov/about/powers-procedures.htm"},
+      {"label": "Contact your senators (Senate.gov)", "url": "https://www.senate.gov/senators/senators-contact.htm"}
+    ]
+  },
+  "representative": {
+    "title": "U.S. Representative",
+    "level": "Federal",
+    "summary": "One of 435 voting members of the U.S. House of Representatives, each elected by one district within a state.",
+    "what_they_do": [
+      "Writes, debates and votes on federal laws and the federal budget. A bill must pass both the House and the Senate before going to the President.",
+      "Bills that raise taxes must start in the House.",
+      "Can impeach (formally charge) federal officials, including the President. The Senate then holds the trial.",
+      "Investigates and oversees federal agencies through committee hearings.",
+      "Helps people in their district who have problems with federal agencies, such as Social Security, veterans' benefits, passports or immigration cases."
+    ],
+    "limits": "A representative is one vote of 435, and the party with the majority largely controls which bills come up for a vote.",
+    "term": "2 years, with no term limits. Every House seat is up for election every two years.",
+    "how_chosen": "Elected by voters in one congressional district. Each state's number of districts is based on its population and is updated after every census. States with small populations have one representative for the whole state (called an at-large seat).",
+    "how_many": "435 voting members, plus 6 non-voting members",
+    "why_it_matters": "Your representative is your most direct voice in Congress, elected by a smaller group of people than a senator, and must face voters every two years.",
+    "learn_more": [
+      {"label": "Find your representative (House.gov)", "url": "https://www.house.gov/representatives/find-your-representative"},
+      {"label": "Branches of government (USA.gov)", "url": "https://www.usa.gov/branches-of-government"}
+    ]
+  },
+  "delegate": {
+    "title": "Delegate to the U.S. House",
+    "level": "Federal",
+    "summary": "Represents Washington, D.C., or a U.S. territory in the House of Representatives, but cannot vote on final passage of laws.",
+    "what_they_do": [
+      "Introduces bills and speaks in House debates.",
+      "Serves and votes on House committees, where bills are written and changed.",
+      "Helps residents who have problems with federal agencies."
+    ],
+    "limits": "Delegates cannot vote when the full House decides whether to pass a law. Washington, D.C., and the territories also have no senators.",
+    "term": "2 years. Puerto Rico's member, called the Resident Commissioner, serves 4 years.",
+    "how_chosen": "Elected by voters in Washington, D.C., or the territory.",
+    "how_many": "6: Washington, D.C., Puerto Rico, Guam, the U.S. Virgin Islands, American Samoa and the Northern Mariana Islands",
+    "why_it_matters": "More than 4 million Americans live in D.C. and the territories. Their delegate is their only member of Congress.",
+    "learn_more": [
+      {"label": "Representatives (House.gov)", "url": "https://www.house.gov/representatives"}
+    ]
+  },
+  "governor": {
+    "title": "Governor",
+    "level": "State",
+    "summary": "Leads a state's executive branch, the state agencies that carry out state laws.",
+    "what_they_do": [
+      "Signs bills passed by the state legislature into law, or vetoes them. In most states the governor can also veto individual spending items in a budget (a line-item veto).",
+      "Proposes the state budget, which pays for things like schools, roads, state prisons and the state's share of Medicaid.",
+      "Runs state agencies, such as those for transportation, health, environmental protection and motor vehicles.",
+      "Appoints the leaders of state agencies and, in many states, fills judicial vacancies.",
+      "Commands the state's National Guard (unless it is called into federal service) and declares states of emergency during disasters.",
+      "In many states, can pardon people or shorten their sentences for state crimes, sometimes together with a state board."
+    ],
+    "limits": "Governors need the state legislature to pass laws and approve the budget, and state courts can block actions that break state law or the state constitution. Exact powers differ from state to state.",
+    "term": "4 years in 48 states, and 2 years in New Hampshire and Vermont. Many states limit how many terms a governor can serve.",
+    "how_chosen": "Elected by voters across the whole state.",
+    "how_many": "50 (one per state)",
+    "why_it_matters": "Much of what affects daily life is run by states: public schools and universities, Medicaid, state roads, prisons, unemployment benefits, and responses to disasters.",
+    "learn_more": [
+      {"label": "State governments (USA.gov)", "url": "https://www.usa.gov/state-governments"},
+      {"label": "Governors (National Governors Association)", "url": "https://www.nga.org/governors/"}
+    ]
+  }
+}
