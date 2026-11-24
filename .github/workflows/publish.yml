@@ -10,6 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: read  # lets the publish step find the site bundle uploaded earlier in the run
   contents: read
   pages: write
   id-token: write
